@@ -9,9 +9,11 @@
 
 ## 🧠 À propos de moi
 
-Étudiante en développement logiciel, passionnée par le code et l’apprentissage en autodidacte.  
-Je me forme activement pour devenir développeuse full stack et travailler sur des projets concrets en entreprise.
+Étudiante en développement logiciel, a la recherche d'une alternance en tant que developpeuse fulll stack 1 semaine ecole 3 semaines entreprise.
+Je passionnée par le code et l’apprentissage en autodidacte j'apprend en ce moment : ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) et ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) . 
 
+Je me forme activement pour devenir développeuse full stack et travailler sur des projets concrets en entreprise.
+ 
 💡 Curieuse • Sérieuse • Motivée  
 🔥 Objectif : intégrer une alternance et monter en compétences rapidement
 
@@ -30,9 +32,9 @@ Je me forme activement pour devenir développeuse full stack et travailler sur d
 
 ## 📊 GitHub Stats
 
-![Alya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyaannabi7&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyaannabi7&layout=compact&theme=dark)
+
+![Alya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyaannabi7&show_icons=true&theme=dark)
 
 ---
 
@@ -53,7 +55,7 @@ Construire des projets solides, maîtriser le développement full stack et inté
 
 ## 📫 Me contacter
 
-💼 LinkedIn : (mets ton lien)  
-📧 Email : (mets ton mail)
+💼 LinkedIn :(h ttps://www.linkedin.com/in/alya-annabi-354b10358/)
+📧 Email : alya.annabi@icloud.com
 
----
+

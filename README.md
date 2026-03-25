@@ -34,8 +34,6 @@ Je me forme activement pour devenir développeuse full stack et travailler sur d
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyaannabi7&layout=compact&theme=dark)
 
-![Alya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyaannabi7&show_icons=true&theme=dark)
-
 ---
 
 ## 🚀 Projets
@@ -55,7 +53,7 @@ Construire des projets solides, maîtriser le développement full stack et inté
 
 ## 📫 Me contacter
 
-💼 LinkedIn :(h ttps://www.linkedin.com/in/alya-annabi-354b10358/)
+💼 LinkedIn :(https://www.linkedin.com/in/alya-annabi-354b10358/)
 📧 Email : alya.annabi@icloud.com
 
 

@@ -9,7 +9,7 @@
 
 ## 🧠 À propos de moi
 
-Étudiante en développement logiciel, a la recherche d'une alternance en tant que developpeuse fulll stack 1 semaine ecole 3 semaines entreprise.
+Étudiante en développement logiciel, a la recherche d'une alternance en tant que developpeuse fulll stack 1 semaine ecole 4 semaines entreprise.
 Je passionnée par le code et l’apprentissage en autodidacte j'apprend en ce moment : ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) et ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) . 
 
 Je me forme activement pour devenir développeuse full stack et travailler sur des projets concrets en entreprise.

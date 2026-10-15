@@ -3,8 +3,6 @@
 ## 👩‍💻 Alya Annabi
 
 🚀 Junior Software & Full Stack Developer  
-🎯 Recherche alternance en développement (Full Stack / Backend)
-
 ---
 
 ## 🧠 À propos de moi
@@ -47,7 +45,7 @@ Je me forme activement pour devenir développeuse full stack et travailler sur d
 
 ## 🎯 Objectif
 
-Construire des projets solides, maîtriser le développement full stack et intégrer une entreprise en alternance pour évoluer rapidement.
+Construire des projets solides et maîtriser le développement full stack.
 
 ---
 
